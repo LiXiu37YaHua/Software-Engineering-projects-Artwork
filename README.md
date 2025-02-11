@@ -26,4 +26,5 @@ Here are some of my projects showcasing my design and software engineering work.
 
 ### **8. Python CRUD Operations (SNHU)**
 ![Python CRUD](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/images/IMG_0258.png)
+### **9. Python CRUD Opwrations (SNHU)**
 ![CRUD Operations](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/images/IMG_0257.png)
