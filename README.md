@@ -4,28 +4,28 @@
 Here are some of my projects showcasing my design and software engineering work.
 
 ### **1. Kiva Wireframe Flip Phone App**
-![Kiva Wireframe](https://raw.githubusercontent.com/LiXiu37YaHua/Software-Engineering-projects-Artwork/main/IMG_0268.png)
+![Kiva Wireframe](https://raw.githubusercontent.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/main/IMG_0268.png)
 
 ### **2. Bible App Cover Page**
-![Bible App](https://raw.githubusercontent.com/LiXiu37YaHua/Software-Engineering-projects-Artwork/main/IMG_0267.png)
+![Bible App](https://raw.githubusercontent.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/main/IMG_0267.png)
 
 ### **3. NutriGuide Mobile Wireframe**
-![NutriGuide](https://raw.githubusercontent.com/LiXiu37YaHua/Software-Engineering-projects-Artwork/main/IMG_0266.png)
+![NutriGuide](https://raw.githubusercontent.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/main/IMG_0266.png)
 
 ### **4. Cheetah Artwork (Adobe Illustrator)**
-![Cheetah](https://raw.githubusercontent.com/LiXiu37YaHua/Software-Engineering-projects-Artwork/main/IMG_0265.png)
+![Cheetah](https://raw.githubusercontent.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/main/IMG_0265.png)
 
 ### **5. India Travel Poster**
-![India Poster](https://raw.githubusercontent.com/LiXiu37YaHua/Software-Engineering-projects-Artwork/main/IMG_0264.png)
+![India Poster](https://raw.githubusercontent.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/main/IMG_0264.png)
 
 ### **6. Erté Art Poster**
-![Erté Poster](https://raw.githubusercontent.com/LiXiu37YaHua/Software-Engineering-projects-Artwork/main/IMG_0263.png)
+![Erté Poster](https://raw.githubusercontent.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/main/IMG_0263.png)
 
 ### **7. A2 Coffee Marketing Designs**
-![A2 Coffee](https://raw.githubusercontent.com/LiXiu37YaHua/Software-Engineering-projects-Artwork/main/IMG_2500.jpeg)
+![A2 Coffee](https://raw.githubusercontent.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/main/IMG_2500.jpeg)
 
 ### **8. Python CRUD Operations (SNHU)**
-![Python CRUD](https://raw.githubusercontent.com/LiXiu37YaHua/Software-Engineering-projects-Artwork/main/IMG_0258.png)
+![Python CRUD](https://raw.githubusercontent.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/main/IMG_0258.png)
 
 ### **9. Additional Image**
-![New Image](https://raw.githubusercontent.com/LiXiu37YaHua/Software-Engineering-projects-Artwork/main/IMG_0271.jpeg)
+![New Image](https://raw.githubusercontent.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/main/IMG_0271.jpeg)
