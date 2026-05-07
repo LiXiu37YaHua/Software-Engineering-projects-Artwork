@@ -2,7 +2,7 @@
 
 ### **My 2026 Software Engineer Resume**
 [![Marissa Lanza Resume](https://githubusercontent.com)](Marissa_Lanza_Software_Engineer2026.pdf)
-
+[![Marissa Lanza Resume](https://githubusercontent.com)](https://github.com)
 
 ## **Adobe, Internship, SNHU Projects for Software Engineering**
 Here are some of my projects showcasing my design and software engineering work.
