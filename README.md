@@ -1,7 +1,7 @@
 # Software-Engineering-Projects-Artwork
 
 ### **My 2026 Software Engineer Resume**
-[![Marissa Lanza Resume](https://githubusercontent.com)](Marissa_Lanza_Software_Engineer2026.pdf)
+[![Marissa Lanza Resume](https://githubusercontent.com)](Marissa_Lanza_Software_Engineer2026.pdf) You can click on this if you want, it's optinal.
 <img width="775" height="838" alt="Resume_2026" src="https://github.com/user-attachments/assets/f5993182-9dff-41c4-a427-e826cc9670c5" />
 <img width="768" height="840" alt="Resume_2_2026" src="https://github.com/user-attachments/assets/11ebced0-bd9b-4944-b80a-437513ad542f" />
 
