@@ -1,5 +1,7 @@
 # Software-Engineering-Projects-Artwork
 
+### ** My 2026 Software Engineer Resume**
+![Marissa Lanza Resume](Resume_2026.png)
 ## **Adobe, Internship, SNHU Projects for Software Engineering**
 Here are some of my projects showcasing my design and software engineering work.
 
